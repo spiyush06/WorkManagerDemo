@@ -1,0 +1,14 @@
+
+lsquid:UselessImportCheck"ARemove this unused import 'androidx.core.app.NotificationCompat'.(œéÔã8¦õéö‚.
+asquid:UselessImportCheck"6Remove this unused import 'android.app.PendingIntent'.(šºŞ—8¦õéö‚.
+lsquid:UselessImportCheck"<Remove this unused import 'android.app.NotificationManager'.(¸˜ùÑûÿÿÿÿ8¦õéö‚.
+isquid:UselessImportCheck"9Remove this unused import 'android.app.TaskStackBuilder'.(—­ŠËüÿÿÿÿ8¦õéö‚.
+]squid:UselessImportCheck	"3Remove this unused import 'android.content.Intent'.(³ğ‹G8¦õéö‚.
+Hsquid:S00108p")Either remove or fill this block of code.(å¥‡8¤…Ú÷‚.
+isquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ÕŠ¿º8˜º«÷‚.
+lsquid:UselessImportCheck"<Remove this unused import 'android.app.NotificationChannel'.(ÒÒ…·ıÿÿÿÿ8¦õéö‚.
+asquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8»¨Ñö‚.
+Ssquid:S2696+"6Make the enclosing method "static" or remove this set.(Šä‚e8ë‹µ÷‚.
+csquid:UselessImportCheck"3Remove this unused import 'android.graphics.Color'.(øãíòşÿÿÿÿ8¹ù¤÷‚.
+hsquid:UselessImportCheck">Remove this unused import 'android.content.SharedPreferences'.(íÎÉr8»¨Ñö‚.
+Msquid:S00108H")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8—ÅÙ÷‚.
